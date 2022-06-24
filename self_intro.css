@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: lightblue;
+}
+p{
+    align-items: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
